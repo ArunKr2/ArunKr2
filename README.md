@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
+<h1 align="center">Hi 👋, I'm ArunKumar D</h1>
 <h3 align="center">Quality Engineer | Automation Tester (SDET)</h3>
 
 ---
